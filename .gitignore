@@ -1,0 +1,27 @@
+
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Release ZIP
+release/
+
+# Backups
+backup/*.zip
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor settings
+.vscode/
+.idea/

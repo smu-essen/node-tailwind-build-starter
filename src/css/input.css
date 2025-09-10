@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Example component */
+@layer components {
+  .btn {
+    @apply inline-flex items-center rounded-xl px-5 py-3 font-semibold transition-colors;
+  }
+  .btn-orange {
+    @apply btn bg-orange text-white hover:bg-orange/90;
+  }
+}
