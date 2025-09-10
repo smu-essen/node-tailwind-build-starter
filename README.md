@@ -4,7 +4,7 @@ This README is available in [Deutsch](README.de.md) 🇩🇪
 
 # 🚀 Project – Build & Workflow
 
-[![Node CI](https://github.com/<USERNAME>/node-tailwind-build-starter/actions/workflows/node-ci.yml/badge.svg)](https://github.com/<USERNAME>/node-tailwind-build-starter/actions/workflows/node-ci.yml)
+[![Node CI](https://github.com/smu-essen/node-tailwind-build-starter/actions/workflows/node-ci.yml/badge.svg)](https://github.com/smu-essen/node-tailwind-build-starter/actions/workflows/node-ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 This project uses a Node.js-based build system with Tailwind CSS, partials, minify, `<picture>` automation, and iCloud backup.
